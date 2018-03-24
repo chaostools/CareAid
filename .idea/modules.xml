@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/CareAid.iml" filepath="$PROJECT_DIR$/CareAid.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/careAid.iml" filepath="$PROJECT_DIR$/careAid.iml" />
+      <module fileurl="file://C:\Users\varun\Desktop\HackJMI\CareAid\app\app.iml" filepath="C:\Users\varun\Desktop\HackJMI\CareAid\app\app.iml" />
+      <module fileurl="file://C:\Users\varun\Desktop\HackJMI\CareAid\careAid.iml" filepath="C:\Users\varun\Desktop\HackJMI\CareAid\careAid.iml" />
     </modules>
   </component>
 </project>
